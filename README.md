@@ -1,4 +1,4 @@
-#** Library
+# Library
 I would like to create a database to enable a library to run smoothly
 
 ## Spec
